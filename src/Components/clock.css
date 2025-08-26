@@ -1,0 +1,51 @@
+.text {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 40px;
+  font-family: monospace;
+}
+
+.time {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 60px;
+  font-family: cursive;
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+}
+
+.day {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 50px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color:rgb(231, 255, 13);
+}
+
+.date {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 30px;
+  font-family: monospace;
+}
+
+
+.container{
+-webkit-box-shadow: 5px 5px 15px 5px #000000; 
+box-shadow: 5px 5px 15px 5px #000000;
+  width: 300px;
+  border: 15px solid rgb(4, 0, 255);
+  padding: 50px;
+  margin: 20px;
+  align-content: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color:rgb(8, 218, 255);
+ 
+  
+
+}
